@@ -9,7 +9,7 @@ kubectl create ns harbor
 ### Update values.yaml
 
 ```sh
-vi .harbor/values.yaml
+vi ./harbor/values.yaml
 ```
 
 And change:
